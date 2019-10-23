@@ -16,4 +16,4 @@ Additionally, this data can help assist New York's Citi Bike program by potentai
 
 ### How to run
 
-Requries Tableau
+Requires Tableau
